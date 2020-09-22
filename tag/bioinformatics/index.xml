@@ -14,9 +14,9 @@
     
     <item>
       <title>ePromoters</title>
-      <link>/project/internal-project/</link>
+      <link>/project/epromoters/</link>
       <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
+      <guid>/project/epromoters/</guid>
       <description>&lt;h2 id=&#34;characterization-of-regulatory-variants-in-promoters-with-enhancer-activity-and-their-relation-with-human-diseases&#34;&gt;Characterization of regulatory variants in promoters with enhancer activity and their relation with human diseases&lt;/h2&gt;
 &lt;p&gt;Gene regulation is driven by the interaction of regulatory sequences, commonly categorized as either enhancers or promoters. Recently, using a modification of the STARR-seq assay, we identified sets of promoters with enhancer potential. In a first publication the group characterized these promoters with enhancer activity (ePromoters) in HeLa and K562, finding that these sequences share epigenetic characteristics with enhancers and do show contact with other promoters in 3D interactions. ePromoters represent between 2% to 6% of the promoters in a given cell line, and they show cell type specificity.  Moreover, genes regulated by ePromoters show enrichment in gene ontologies related to inflammatory or stress response.&lt;/p&gt;
 &lt;p&gt;Given that the majority of genetic variants associated with human diseases and traits (93.7%) have been found to be located in non-coding DNA, in this follow up analysis we set out to characterize regulatory variants in ePromoters.  Using genetic variants associated with traits and disease (GWAS catalog), we found a significant enrichment of GWAS variants associated to Hematological Measurements in HeLa ePromoters, while in K562 ePromoters additionally we see enrichment of “Other measurements” category, which tends to be related to different conditions as asthma or osteoarthritis, related to inflammatory response.&lt;/p&gt;
@@ -24,6 +24,14 @@
 &lt;p&gt;In order to have a comprehensive collection of variants we decided to further include variants from the GTEx project and CLINVAR, together with variants for the GWAS catalog. Annotated genetic variants commonly tag SNPs and they are not necessarily causal variants; for this reason we identified SNPs in Linkage Disequilibrium (LD) with this collection. In total 1,515 and 2,014 variants of our extended collection fall within the ePromoters neighbourhood in HeLA and K562, respectively. Of these we identified 109 and 190 to be likely affecting binding for 42 and 46 transcription factors, reported as enriched in ePromoter sequences. Particularly, we found the variant rs3771180 associated to asthma affecting the binding of  FOS, FOSL1, JUN(var.2) and NFE2; and rs990171 that is related to lymphocyte counts and Celiac disease disrupting the binding of MEF2C. These transcription factors have been implicated in the TLR4 signalling, the T-cell leukemia virus 1 infection and megakaryocyte development and platelet production, supporting our hypothesis of ePromoters being associated to inflammatory response and to other hematological measurements.&lt;/p&gt;
 &lt;p&gt;Understanding ePromoters and the regulatory mechanisms that affect their dual function will help identify the causes of human diseases and traits.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>RSAT variation-tools: An accessible and flexible framework to predict the impact of regulatory variants on transcription factor binding</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description></description>
     </item>
     
   </channel>

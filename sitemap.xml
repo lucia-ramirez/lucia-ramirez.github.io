@@ -18,32 +18,22 @@
   </url>
   
   <url>
-    <loc>/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/bioinformatics/</loc>
     <lastmod>2020-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/internal-project/</loc>
+    <loc>/project/epromoters/</loc>
     <lastmod>2020-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/gene-regulation/</loc>
+    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
     <lastmod>2020-09-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,6 +53,16 @@
   </url>
   
   <url>
+    <loc>/talk/ismb2020_epromoters/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
@@ -78,42 +78,17 @@
   </url>
   
   <url>
-    <loc>/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/lucia-ramirez-navarro/</loc>
+    <loc>/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/jupyter/</loc>
+    <loc>/author/lucia-ramirez-navarro/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -168,23 +143,68 @@
   </url>
   
   <url>
+    <loc>/author/alejandra-medina-rivera/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/bruno-contreras-moreira/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/denis-thieffry/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jacques-van-helden/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/maria-rocha-acevedo/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/morgane-thomas-cholliera/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/rsat/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/robert-ford/</loc>
+    <loc>/tag/variants/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>/author/walter-santana-garcia/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>/author/yvon-mbouamboua/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
