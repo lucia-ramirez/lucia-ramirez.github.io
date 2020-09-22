@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Academic</title>
+    <title>Projects | Lucia Ramirez-Navarro</title>
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 17 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
@@ -13,23 +13,16 @@
     </image>
     
     <item>
-      <title>External Project</title>
-      <link>/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internal Project</title>
+      <title>ePromoters</title>
       <link>/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;characterization-of-regulatory-variants-in-promoters-with-enhancer-activity-and-their-relation-with-human-diseases&#34;&gt;Characterization of regulatory variants in promoters with enhancer activity and their relation with human diseases&lt;/h2&gt;
+&lt;p&gt;Gene regulation is driven by the interaction of regulatory sequences, commonly categorized as either enhancers or promoters. Recently, using a modification of the STARR-seq assay, we identified sets of promoters with enhancer potential. In a first publication the group characterized these promoters with enhancer activity (ePromoters) in HeLa and K562, finding that these sequences share epigenetic characteristics with enhancers and do show contact with other promoters in 3D interactions. ePromoters represent between 2% to 6% of the promoters in a given cell line, and they show cell type specificity.  Moreover, genes regulated by ePromoters show enrichment in gene ontologies related to inflammatory or stress response.&lt;/p&gt;
+&lt;p&gt;Given that the majority of genetic variants associated with human diseases and traits (93.7%) have been found to be located in non-coding DNA, in this follow up analysis we set out to characterize regulatory variants in ePromoters.  Using genetic variants associated with traits and disease (GWAS catalog), we found a significant enrichment of GWAS variants associated to Hematological Measurements in HeLa ePromoters, while in K562 ePromoters additionally we see enrichment of “Other measurements” category, which tends to be related to different conditions as asthma or osteoarthritis, related to inflammatory response.&lt;/p&gt;
+&lt;p&gt;We hypothesize that genetic variants within ePromoters are likely to affect transcription factor (TF) binding. Therefore, we aimed to identify which are the relevant TFs interacting with these regulatory regions. Using pattern-matching approaches, we identified an enrichment for TFs belonging to the bZIP family, which have been implicated in pathways such as Toll-like receptor signaling, B and T cell receptor signaling and even to diseases related to inflammation such as acute myeloid leukemia and diabetes.&lt;/p&gt;
+&lt;p&gt;In order to have a comprehensive collection of variants we decided to further include variants from the GTEx project and CLINVAR, together with variants for the GWAS catalog. Annotated genetic variants commonly tag SNPs and they are not necessarily causal variants; for this reason we identified SNPs in Linkage Disequilibrium (LD) with this collection. In total 1,515 and 2,014 variants of our extended collection fall within the ePromoters neighbourhood in HeLA and K562, respectively. Of these we identified 109 and 190 to be likely affecting binding for 42 and 46 transcription factors, reported as enriched in ePromoter sequences. Particularly, we found the variant rs3771180 associated to asthma affecting the binding of  FOS, FOSL1, JUN(var.2) and NFE2; and rs990171 that is related to lymphocyte counts and Celiac disease disrupting the binding of MEF2C. These transcription factors have been implicated in the TLR4 signalling, the T-cell leukemia virus 1 infection and megakaryocyte development and platelet production, supporting our hypothesis of ePromoters being associated to inflammatory response and to other hematological measurements.&lt;/p&gt;
+&lt;p&gt;Understanding ePromoters and the regulatory mechanisms that affect their dual function will help identify the causes of human diseases and traits.&lt;/p&gt;
 </description>
     </item>
     
